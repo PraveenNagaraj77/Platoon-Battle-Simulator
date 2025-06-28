@@ -25,7 +25,7 @@ public class BattleSimulator {
             List<Platoon> winningArrangement = BattleStrategy.findWinningArrangement(yourPlatoons, enemyPlatoons);
 
             if (winningArrangement == null) {
-                System.out.println("No winning strategy possible.");
+                System.out.println("There is No Chance of Winning.");
             } else {
                 System.out.print("Winning arrangement: ");
                 String arrangementLine = winningArrangement.stream()
