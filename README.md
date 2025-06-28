@@ -40,20 +40,20 @@ FootArcher -> Militia, CavalryArcher
 ## Sample Input (when prompted)
 
 `Enter your 5 platoons:
-Spearmen#10;Militia#30;FootArcher#20;LightCavalry#1000;HeavyCavalry#120
+Spearmen#10;Militia#30;FootArcher#20;LightCavalry#1000;HeavyCavalry#120`
 
-Enter enemy's 5 platoons:
+`Enter enemy's 5 platoons:
 Militia#10;Spearmen#10;FootArcher#1000;LightCavalry#120;CavalryArcher#100`
 
 ## Sample Output
 
-`Winning arrangement: Spearmen#10;Militia#30;FootArcher#20;LightCavalry#1000;HeavyCavalry#120
+`Winning arrangement: Spearmen#10;Militia#30;FootArcher#20;LightCavalry#1000;HeavyCavalry#120`
 
-Battle Results:
+`Battle Results:
 Spearmen#10 vs Militia#10 => DRAW
 Militia#30 vs Spearmen#10 => WIN
 FootArcher#20 vs FootArcher#1000 => LOSS
 LightCavalry#1000 vs LightCavalry#120 => WIN
-HeavyCavalry#120 vs CavalryArcher#100 => WIN
+HeavyCavalry#120 vs CavalryArcher#100 => WIN`
 
-Final Result: 3 Wins, 2 Losses or Draws`
+`Final Result: 3 Wins, 2 Losses or Draws`
