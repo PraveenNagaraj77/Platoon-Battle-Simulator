@@ -23,7 +23,8 @@ FootArcher -> Militia, CavalryArcher
 1. Clone the repository:
 2. Navigate to the Source Directory
 3. Compile the Code
-4.Run the application:
+4. Run the application:
+
 
 `git clone https://github.com/PraveenNagaraj77/Platoon-Battle-Simulator.git`
 
