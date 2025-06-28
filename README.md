@@ -25,10 +25,13 @@ FootArcher -> Militia, CavalryArcher
 3. Compile the Code
 4.Run the application:
 
-`git clone https://github.com/PraveenNagaraj77/Platoon-Battle-Simulator.git
-cd Platoon-Battle-Simulator/src
-javac com/praveen/battle/*.java
-java com.praveen.battle.BattleSimulator`
+`git clone https://github.com/PraveenNagaraj77/Platoon-Battle-Simulator.git`
+
+`cd Platoon-Battle-Simulator/src`
+
+`javac com/praveen/battle/*.java`
+
+``java com.praveen.battle.BattleSimulator``
 
 
 ## Sample Input 
