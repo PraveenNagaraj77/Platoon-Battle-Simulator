@@ -37,7 +37,7 @@ FootArcher -> Militia, CavalryArcher
 `java com.praveen.battle.BattleSimulator`
 
 
-## Sample Input (when prompted)
+## Sample Input 
 
 `Enter your 5 platoons:
 Spearmen#10;Militia#30;FootArcher#20;LightCavalry#1000;HeavyCavalry#120`
