@@ -8,7 +8,7 @@ public class BattleSimulator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("=== Medieval Battle Simulator ===");
+        System.out.println("=== Platoons Battle Simulator ===");
 
         while (true) {
             System.out.println("\nEnter your 5 platoons (format: Class#Count;Class#Count;...):");
